@@ -19,7 +19,7 @@ autopep8 = "^2.0.4"
 isort = "^6.0.0"
 flake8 = "^7.0.0"
 pydocstyle = "^6.3.0"
-pylint = "^3.0.3"
+pylint = "^4.0.0"
 
 [build-system]
 requires = ["poetry-core"]

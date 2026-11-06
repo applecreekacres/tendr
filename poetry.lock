@@ -2096,13 +2096,13 @@ files = [
 
 [[package]]
 name = "rope"
-version = "1.14.0"
+version = "1.15.2"
 description = "a python refactoring library..."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.10"
 files = [
-    {file = "rope-1.14.0-py3-none-any.whl", hash = "sha256:00a7ea8c0c376fc0b053b2f2f8ef3bfb8b50fecf1ebf3eb80e4f8bd7f1941918"},
-    {file = "rope-1.14.0.tar.gz", hash = "sha256:8803e3b667315044f6270b0c69a10c0679f9f322ed8efe6245a93ceb7658da69"},
+    {file = "rope-1.15.2-py3-none-any.whl", hash = "sha256:77396ccec561815e8eeca6d2223a93e0d1d7488dcfa3e094cd301d7327cd756e"},
+    {file = "rope-1.15.2.tar.gz", hash = "sha256:7ce304aa86350d9454533b6817d0c7c01301b0a4fad356d8372b5d77df35756f"},
 ]
 
 [package.dependencies]
